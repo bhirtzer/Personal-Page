@@ -1,0 +1,137 @@
+@charset "UTF-8";
+
+body {
+	padding-top: 0em;
+	font-family: 'Raleway', sans-serif;
+}
+
+header {
+	background-color: clear;
+	padding-top: 1.5em;
+	text-align: center;
+	position: center;
+}
+
+.resize {
+	transform: scale(0.60);
+}
+
+.resize1 {
+	width: 180px;
+	height: auto;
+	padding-top: 2.5em;
+	padding-bottom: 2em;
+}
+
+.banner {
+	position: center-top;
+	
+}
+
+.nav {
+	background-color: clear;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	padding-top: 1.5em;
+	overflow: hidden;
+	position: center;
+}
+
+.nav a {
+	font-family: 'Raleway', sans-serif;
+	float: center;
+	padding: 1em;
+	text-decoration: none;
+	color: white;
+	font-size: 1em;
+	font-weight: 600;
+	position: center;
+}
+
+.nav a:hover {
+	background-color: grey;
+}
+
+header a{
+	color: #FFF;
+}
+
+main {
+	background-color: clear;
+	font-family: 'Raleway', sans-serif;
+	font-style: bold;
+	color: white;
+	text-align: center;
+	position: center;
+}
+
+div.container1 {
+	padding-top: 10em;
+}
+
+h1 {
+	font-size: 72px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+	text-align: relative;
+	margin: 0;
+}
+
+h3 {
+	font-size: 40px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 400;
+	text-align: relative;
+	margin-top: -10px;
+	margin-bottom: 10px;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+	text-align: relative;
+	float: left-center;
+	padding-right: 80px;
+	padding-left: 80px;
+	
+}
+
+div.container2 {
+	width: 80%;
+	height: 80%;
+	margin: none;
+	text-align: center;
+	position: center;
+}
+
+div.container3 {
+	padding-top: 2.5em;
+	text-align: center;
+	position: center;
+}
+
+.resume {
+	max-width: 65%;
+	max-height: 80%;
+	text-align: center;
+	
+	padding: 0em;
+	overflow: hidden;
+}
+
+.button {
+	border: none;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+	padding-left: 1em;
+	padding-right: 1em;
+	margin: auto;
+}
+	
+main a {
+	float: center;	
+	font-family: 'Raleway', sans-serif;
+	text-decoration: none;
+	color: black;	
+	font-style: bold;
+}
